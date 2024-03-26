@@ -1,0 +1,13 @@
+res://player.tscn
+res://main.tscn
+res://parallax_background.tscn
+res://obstacle.tscn
+res://main.gd
+res://ground.tscn
+res://hud.tscn
+res://player.gd
+res://barrel.tscn
+res://stump.tscn
+res://rock.tscn
+res://game_over.tscn
+res://TouchScreenButton.gd

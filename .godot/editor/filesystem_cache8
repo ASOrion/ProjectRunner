@@ -1,0 +1,197 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1711416602
+barrel.tscn::PackedScene::8419745224632025235::1711331672::0::1::::<><>::uid://b7ko2h0ntsfmk::::res://Art/free-swamp-game-tileset-pixel-art/3 Objects/Boxes/3.png
+game_over.tscn::PackedScene::3713094463614833145::1711334314::0::1::::<><>::uid://c8qn24xraiw1::::res://Art/NESCyrillic.ttf
+ground.tscn::PackedScene::2966113937581700953::1711331672::0::1::::<><>::uid://etaorfrvve04::::res://Art/Screenshot 2024-03-24 120210.png
+hud.tscn::PackedScene::2476373803325516519::1711331672::0::1::::<><>::uid://c8qn24xraiw1::::res://Art/NESCyrillic.ttf
+icon.svg::CompressedTexture2D::173429451640656621::1709002227::1709002232::1::::<><>::
+main.gd::GDScript::-1::1711329982::0::1::::<>Node2D<>::
+main.tscn::PackedScene::5591653342492548696::1711331672::0::1::::<><>::res://main.gd<>uid://dnl2j3vdiw43::::res://player.tscn<>uid://bii2p0prh053r::::res://ground.tscn<>uid://sgbxbhbntqhx::::res://parallax_background.tscn<>uid://bbjtrrbi7w2ed::::res://hud.tscn<>uid://bs5wegtg1dmib::::res://game_over.tscn
+obstacle.tscn::PackedScene::3411600539245578715::1711331672::0::1::::<><>::uid://c07umg5kacrxt::::res://Art/obstacle.png
+parallax_background.tscn::PackedScene::1275887305662075021::1711331672::0::1::::<><>::uid://0e4nv3n1v6fr::::res://Art/PixelFantasy_Caves_1.0/background1.png<>uid://bqfydipep5muq::::res://Art/PixelFantasy_Caves_1.0/background2.png<>uid://cv3knpandf2yg::::res://Art/PixelFantasy_Caves_1.0/background3.png<>uid://bkxvdd6yvm0q1::::res://Art/PixelFantasy_Caves_1.0/background4a.png<>uid://bmkv080hh1lk4::::res://Art/PixelFantasy_Caves_1.0/background4b.png
+player.gd::GDScript::-1::1711314248::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::238120061995906270::1711331672::0::1::::<><>::res://player.gd<>uid://bbufme6tswbax::::res://Art/dinoCharactersVersion1.1/sheets/DinoSprites - mort.png
+README.md::TextFile::-1::1711334660::0::1::::<><>::
+rock.tscn::PackedScene::1952596017634430157::1711331672::0::1::::<><>::uid://ctutfw8f73o38::::res://Art/free-swamp-game-tileset-pixel-art/3 Objects/Stones/1.png
+stump.tscn::PackedScene::6545238524592015998::1711331672::0::1::::<><>::uid://bal6hbf8ebf30::::res://Art/free-swamp-game-tileset-pixel-art/3 Objects/Ridges/2.png
+TouchScreenButton.gd::GDScript::-1::1711335611::0::1::::<>TouchScreenButton<>::
+::res://Art/::1711333789
+NESCyrillic.ttf::FontFile::209498304362588886::1708046204::1711316963::1::::<><>::
+obstacle.png::CompressedTexture2D::6594858677787799221::1709091668::1709091744::1::::<><>::
+Screenshot 2024-03-24 120210.png::CompressedTexture2D::320004454416204503::1711307060::1711307112::1::::<><>::
+::res://Art/dinoCharactersVersion1.1/::1710981432
+changelog.txt::TextFile::-1::1710981416::0::1::::<><>::
+::res://Art/dinoCharactersVersion1.1/aseprite/::1710981432
+::res://Art/dinoCharactersVersion1.1/gifs/::1710981432
+::res://Art/dinoCharactersVersion1.1/misc/::1710981477
+bg.png::CompressedTexture2D::6251684998913701940::1710981416::1710981477::1::::<><>::
+shadow_2.png::CompressedTexture2D::7186453251420099477::1710981416::1710981477::1::::<><>::
+::res://Art/dinoCharactersVersion1.1/sheets/::1710981477
+DinoSprites - doux.png::CompressedTexture2D::2974651391528229782::1710981416::1710981477::1::::<><>::
+DinoSprites - mort.png::CompressedTexture2D::2498222355773550475::1710981416::1710981477::1::::<><>::
+DinoSprites - tard.png::CompressedTexture2D::7050889893135799272::1710981416::1710981477::1::::<><>::
+DinoSprites - vita.png::CompressedTexture2D::7851147941920297434::1710981416::1710981477::1::::<><>::
+::res://Art/free-swamp-game-tileset-pixel-art/::1711317953
+Font.txt::TextFile::-1::1711317942::0::1::::<><>::
+License.txt::TextFile::-1::1711317942::0::1::::<><>::
+::res://Art/free-swamp-game-tileset-pixel-art/1 Tiles/::1711317958
+Tileset.png::CompressedTexture2D::7333375977358337823::1711317939::1711317958::1::::<><>::
+Tile_01.png::CompressedTexture2D::4030402533347408620::1711317939::1711317958::1::::<><>::
+Tile_02.png::CompressedTexture2D::1633304635186468545::1711317939::1711317958::1::::<><>::
+Tile_03.png::CompressedTexture2D::5720242856195128116::1711317939::1711317958::1::::<><>::
+Tile_04.png::CompressedTexture2D::1268253191427266264::1711317939::1711317958::1::::<><>::
+Tile_05.png::CompressedTexture2D::5729790254114669832::1711317939::1711317958::1::::<><>::
+Tile_06.png::CompressedTexture2D::1881382478426010815::1711317939::1711317958::1::::<><>::
+Tile_07.png::CompressedTexture2D::3744222180251127071::1711317939::1711317958::1::::<><>::
+Tile_08.png::CompressedTexture2D::1377632622509452856::1711317939::1711317958::1::::<><>::
+Tile_09.png::CompressedTexture2D::8747587683831278672::1711317939::1711317958::1::::<><>::
+Tile_10.png::CompressedTexture2D::7006583943780700447::1711317939::1711317958::1::::<><>::
+Tile_11.png::CompressedTexture2D::9071783256044474664::1711317939::1711317958::1::::<><>::
+Tile_12.png::CompressedTexture2D::5837587147727477436::1711317939::1711317958::1::::<><>::
+Tile_13.png::CompressedTexture2D::7609454208105839618::1711317939::1711317958::1::::<><>::
+Tile_14.png::CompressedTexture2D::5415113648678094750::1711317939::1711317958::1::::<><>::
+Tile_15.png::CompressedTexture2D::394912787830943672::1711317939::1711317958::1::::<><>::
+Tile_16.png::CompressedTexture2D::5256411552750752305::1711317939::1711317958::1::::<><>::
+Tile_17.png::CompressedTexture2D::4327691647542122979::1711317939::1711317958::1::::<><>::
+Tile_18.png::CompressedTexture2D::1007410610075360940::1711317939::1711317958::1::::<><>::
+Tile_19.png::CompressedTexture2D::6848262206831602789::1711317939::1711317958::1::::<><>::
+Tile_20.png::CompressedTexture2D::1635070401819128491::1711317939::1711317957::1::::<><>::
+Tile_21.png::CompressedTexture2D::74143122975303770::1711317939::1711317957::1::::<><>::
+Tile_22.png::CompressedTexture2D::5320756037416796094::1711317939::1711317957::1::::<><>::
+Tile_23.png::CompressedTexture2D::4318820543417938481::1711317939::1711317957::1::::<><>::
+Tile_24.png::CompressedTexture2D::214026282968594240::1711317939::1711317957::1::::<><>::
+Tile_25.png::CompressedTexture2D::5824441307682249077::1711317939::1711317957::1::::<><>::
+Tile_26.png::CompressedTexture2D::8750612871990240301::1711317939::1711317957::1::::<><>::
+Tile_27.png::CompressedTexture2D::6189587505989517338::1711317939::1711317957::1::::<><>::
+Tile_28.png::CompressedTexture2D::2384057934721576373::1711317939::1711317957::1::::<><>::
+Tile_29.png::CompressedTexture2D::1529357228386152498::1711317939::1711317957::1::::<><>::
+Tile_30.png::CompressedTexture2D::502225709785867062::1711317939::1711317957::1::::<><>::
+Tile_31.png::CompressedTexture2D::2912223101483709068::1711317939::1711317957::1::::<><>::
+Tile_32.png::CompressedTexture2D::6136818829966677700::1711317939::1711317957::1::::<><>::
+Tile_33.png::CompressedTexture2D::6168329510139569000::1711317939::1711317958::1::::<><>::
+Tile_34.png::CompressedTexture2D::8314610770914082620::1711317939::1711317958::1::::<><>::
+Tile_35.png::CompressedTexture2D::4253265467534406183::1711317939::1711317958::1::::<><>::
+Tile_36.png::CompressedTexture2D::5558482511955356883::1711317939::1711317958::1::::<><>::
+Tile_37.png::CompressedTexture2D::4481053382826266310::1711317939::1711317958::1::::<><>::
+Tile_38.png::CompressedTexture2D::4758609898500935674::1711317939::1711317958::1::::<><>::
+Tile_39.png::CompressedTexture2D::4444674037240946009::1711317939::1711317958::1::::<><>::
+Tile_40.png::CompressedTexture2D::8256068176123781091::1711317940::1711317958::1::::<><>::
+Tile_41.png::CompressedTexture2D::3140646112517481272::1711317940::1711317958::1::::<><>::
+Tile_42.png::CompressedTexture2D::5995472923814589718::1711317940::1711317958::1::::<><>::
+Tile_43.png::CompressedTexture2D::3497195087830703103::1711317940::1711317958::1::::<><>::
+Tile_44.png::CompressedTexture2D::3065388214554236240::1711317940::1711317958::1::::<><>::
+Tile_45.png::CompressedTexture2D::5913419988442438729::1711317940::1711317958::1::::<><>::
+Tile_46.png::CompressedTexture2D::258226261756050020::1711317940::1711317958::1::::<><>::
+Tile_47.png::CompressedTexture2D::4528451081898447318::1711317940::1711317958::1::::<><>::
+Tile_48.png::CompressedTexture2D::8416395710510374858::1711317940::1711317958::1::::<><>::
+Tile_49.png::CompressedTexture2D::5529480414251594600::1711317940::1711317958::1::::<><>::
+Tile_50.png::CompressedTexture2D::5534870351053924819::1711317940::1711317958::1::::<><>::
+Tile_51.png::CompressedTexture2D::7252127285905970420::1711317940::1711317958::1::::<><>::
+Tile_52.png::CompressedTexture2D::720782908038519423::1711317940::1711317958::1::::<><>::
+Tile_53.png::CompressedTexture2D::359304761349979048::1711317940::1711317958::1::::<><>::
+Tile_54.png::CompressedTexture2D::7581279127367767545::1711317940::1711317958::1::::<><>::
+Tile_55.png::CompressedTexture2D::2399688904199311154::1711317940::1711317958::1::::<><>::
+Tile_56.png::CompressedTexture2D::4404751416238299890::1711317940::1711317958::1::::<><>::
+Tile_57.png::CompressedTexture2D::2729643574409620429::1711317940::1711317958::1::::<><>::
+Tile_58.png::CompressedTexture2D::5763383576744568671::1711317940::1711317958::1::::<><>::
+Tile_59.png::CompressedTexture2D::5464527735622795065::1711317940::1711317958::1::::<><>::
+Tile_60.png::CompressedTexture2D::4646467564708932438::1711317940::1711317958::1::::<><>::
+::res://Art/free-swamp-game-tileset-pixel-art/2 Background/::1711317957
+Background.png::CompressedTexture2D::7127841827617114719::1711317940::1711317957::1::::<><>::
+::res://Art/free-swamp-game-tileset-pixel-art/2 Background/Layers/::1711317958
+1.png::CompressedTexture2D::3131650985276125388::1711317940::1711317958::1::::<><>::
+2.png::CompressedTexture2D::9010137157769647481::1711317940::1711317958::1::::<><>::
+3.png::CompressedTexture2D::7009838995849193904::1711317940::1711317958::1::::<><>::
+4.png::CompressedTexture2D::5983177021261522633::1711317940::1711317958::1::::<><>::
+5.png::CompressedTexture2D::7086263789587127945::1711317940::1711317958::1::::<><>::
+::res://Art/free-swamp-game-tileset-pixel-art/3 Objects/::1711317953
+::res://Art/free-swamp-game-tileset-pixel-art/3 Objects/Boxes/::1711317957
+1.png::CompressedTexture2D::8784785852219721555::1711317940::1711317957::1::::<><>::
+2.png::CompressedTexture2D::8955513719376574086::1711317940::1711317957::1::::<><>::
+3.png::CompressedTexture2D::4654006118885223766::1711317940::1711317957::1::::<><>::
+4.png::CompressedTexture2D::3237066030180424238::1711317940::1711317957::1::::<><>::
+5.png::CompressedTexture2D::7061432895391935189::1711317940::1711317957::1::::<><>::
+6.png::CompressedTexture2D::5385332407480192502::1711317940::1711317957::1::::<><>::
+::res://Art/free-swamp-game-tileset-pixel-art/3 Objects/Bushes/::1711317957
+1.png::CompressedTexture2D::4681856323268486860::1711317940::1711317957::1::::<><>::
+2.png::CompressedTexture2D::6717339646814743624::1711317940::1711317957::1::::<><>::
+3.png::CompressedTexture2D::4978142297509136772::1711317940::1711317957::1::::<><>::
+4.png::CompressedTexture2D::6721289763003129254::1711317940::1711317957::1::::<><>::
+5.png::CompressedTexture2D::1031731587237960324::1711317940::1711317957::1::::<><>::
+6.png::CompressedTexture2D::3303152302435138136::1711317940::1711317957::1::::<><>::
+7.png::CompressedTexture2D::5996376438287471597::1711317940::1711317957::1::::<><>::
+8.png::CompressedTexture2D::2638499480522910090::1711317940::1711317957::1::::<><>::
+9.png::CompressedTexture2D::8419481199452343922::1711317941::1711317957::1::::<><>::
+::res://Art/free-swamp-game-tileset-pixel-art/3 Objects/Fence/::1711317957
+1.png::CompressedTexture2D::4177158597971752299::1711317941::1711317957::1::::<><>::
+2.png::CompressedTexture2D::1256876418768221729::1711317941::1711317957::1::::<><>::
+3.png::CompressedTexture2D::6508787525968744187::1711317941::1711317957::1::::<><>::
+::res://Art/free-swamp-game-tileset-pixel-art/3 Objects/Grass/::1711317957
+1.png::CompressedTexture2D::6546703491168583691::1711317941::1711317957::1::::<><>::
+2.png::CompressedTexture2D::7766962736160224311::1711317941::1711317957::1::::<><>::
+3.png::CompressedTexture2D::7905872626399889557::1711317941::1711317957::1::::<><>::
+4.png::CompressedTexture2D::8690131362788681866::1711317941::1711317957::1::::<><>::
+5.png::CompressedTexture2D::2007222956134954899::1711317941::1711317957::1::::<><>::
+6.png::CompressedTexture2D::8956596847576545917::1711317941::1711317957::1::::<><>::
+7.png::CompressedTexture2D::6099949197116237706::1711317941::1711317957::1::::<><>::
+8.png::CompressedTexture2D::7843452095107235752::1711317941::1711317957::1::::<><>::
+9.png::CompressedTexture2D::6014361629115120521::1711317941::1711317957::1::::<><>::
+10.png::CompressedTexture2D::2624671027267741515::1711317941::1711317957::1::::<><>::
+::res://Art/free-swamp-game-tileset-pixel-art/3 Objects/Ladders/::1711317957
+1.png::CompressedTexture2D::6018558436371300385::1711317941::1711317957::1::::<><>::
+2.png::CompressedTexture2D::389523469008192420::1711317941::1711317957::1::::<><>::
+3.png::CompressedTexture2D::3458604016016537703::1711317941::1711317957::1::::<><>::
+4.png::CompressedTexture2D::2275288773600507452::1711317941::1711317957::1::::<><>::
+5.png::CompressedTexture2D::6204429538353927447::1711317941::1711317957::1::::<><>::
+6.png::CompressedTexture2D::5189400184033132153::1711317941::1711317957::1::::<><>::
+::res://Art/free-swamp-game-tileset-pixel-art/3 Objects/Pointers/::1711317957
+1.png::CompressedTexture2D::4240184291578397665::1711317941::1711317957::1::::<><>::
+2.png::CompressedTexture2D::5843973159330877117::1711317941::1711317957::1::::<><>::
+3.png::CompressedTexture2D::2538090034678415489::1711317941::1711317957::1::::<><>::
+4.png::CompressedTexture2D::3426495096081452333::1711317941::1711317957::1::::<><>::
+5.png::CompressedTexture2D::7689903678512056716::1711317941::1711317957::1::::<><>::
+6.png::CompressedTexture2D::8800162483234252808::1711317941::1711317957::1::::<><>::
+7.png::CompressedTexture2D::1592392345462379963::1711317941::1711317957::1::::<><>::
+8.png::CompressedTexture2D::584332542181614533::1711317941::1711317957::1::::<><>::
+::res://Art/free-swamp-game-tileset-pixel-art/3 Objects/Ridges/::1711317957
+1.png::CompressedTexture2D::5152251331522246697::1711317941::1711317957::1::::<><>::
+2.png::CompressedTexture2D::2411023628072985869::1711317941::1711317957::1::::<><>::
+3.png::CompressedTexture2D::6770783056666225155::1711317941::1711317957::1::::<><>::
+4.png::CompressedTexture2D::8738121614300599090::1711317941::1711317957::1::::<><>::
+5.png::CompressedTexture2D::7015367648870116439::1711317941::1711317957::1::::<><>::
+6.png::CompressedTexture2D::6068842347403550761::1711317941::1711317957::1::::<><>::
+::res://Art/free-swamp-game-tileset-pixel-art/3 Objects/Stones/::1711317957
+1.png::CompressedTexture2D::6148880710185406673::1711317941::1711317957::1::::<><>::
+2.png::CompressedTexture2D::1747526562621964168::1711317941::1711317957::1::::<><>::
+3.png::CompressedTexture2D::1167306231589503286::1711317941::1711317957::1::::<><>::
+4.png::CompressedTexture2D::320643505153477576::1711317941::1711317957::1::::<><>::
+5.png::CompressedTexture2D::3138256046679144796::1711317941::1711317957::1::::<><>::
+::res://Art/free-swamp-game-tileset-pixel-art/3 Objects/Trees/::1711317957
+1.png::CompressedTexture2D::4485710783215791577::1711317941::1711317957::1::::<><>::
+2.png::CompressedTexture2D::702306542894893251::1711317941::1711317957::1::::<><>::
+3.png::CompressedTexture2D::8374874320763649138::1711317941::1711317957::1::::<><>::
+::res://Art/free-swamp-game-tileset-pixel-art/3 Objects/Willows/::1711317957
+1.png::CompressedTexture2D::7952042962647311194::1711317942::1711317957::1::::<><>::
+2.png::CompressedTexture2D::1035399030145565420::1711317942::1711317957::1::::<><>::
+3.png::CompressedTexture2D::1406012187170185118::1711317942::1711317957::1::::<><>::
+::res://Art/free-swamp-game-tileset-pixel-art/4 Animated objects/::1711317957
+Chest.png::CompressedTexture2D::5286945075630413356::1711317942::1711317957::1::::<><>::
+Coin.png::CompressedTexture2D::1444992139730401566::1711317942::1711317957::1::::<><>::
+Flag.png::CompressedTexture2D::7959010264736756716::1711317942::1711317957::1::::<><>::
+Key.png::CompressedTexture2D::6134325077856896042::1711317942::1711317957::1::::<><>::
+Rune.png::CompressedTexture2D::6613697909395381583::1711317942::1711317957::1::::<><>::
+::res://Art/gdb-gamepad-2(all)/::1711333792
+gdb-keyboard-2.png::CompressedTexture2D::8116892703603533201::1711333765::1711333792::1::::<><>::
+gdb-playstation-2.png::CompressedTexture2D::7381045008778790990::1711333765::1711333792::1::::<><>::
+gdb-switch-2.png::CompressedTexture2D::7971361838483942514::1711333765::1711333792::1::::<><>::
+gdb-xbox-2.png::CompressedTexture2D::3897818145247412861::1711333766::1711333792::1::::<><>::
+::res://Art/PixelFantasy_Caves_1.0/::1709089947
+background1.png::CompressedTexture2D::1764763756949183135::1709088707::1709089947::1::::<><>::
+background2.png::CompressedTexture2D::3521227079441875720::1709088707::1709089947::1::::<><>::
+background3.png::CompressedTexture2D::6305240834592134426::1709088707::1709089947::1::::<><>::
+background4a.png::CompressedTexture2D::3137070429224611854::1709088707::1709089947::1::::<><>::
+background4b.png::CompressedTexture2D::3250652058804908029::1709088707::1709089947::1::::<><>::
+mainlev_build.png::CompressedTexture2D::4730316774313017611::1709088707::1709089947::1::::<><>::
+props1.png::CompressedTexture2D::419957082732259425::1709088707::1709089947::1::::<><>::
+props2.png::CompressedTexture2D::3183713757575912517::1709088707::1709089947::1::::<><>::
+::res://Art/PixelFantasy_Caves_1.0/PSD/::1709088741

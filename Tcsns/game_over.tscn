@@ -1,0 +1,33 @@
+[gd_scene load_steps=5 format=3 uid="uid://bs5wegtg1dmib"]
+
+[ext_resource type="Script" path="res://Scripts/game_over.gd" id="1_5h2tn"]
+[ext_resource type="FontFile" uid="uid://c8qn24xraiw1" path="res://Art/NESCyrillic.ttf" id="1_tstn3"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_v05jd"]
+bg_color = Color(0.8, 0.8, 0.8, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_4fqqy"]
+bg_color = Color(0.847059, 0.847059, 0.847059, 1)
+
+[node name="GameOver" type="CanvasLayer"]
+script = ExtResource("1_5h2tn")
+
+[node name="Button" type="Button" parent="."]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -32.5
+offset_top = -15.5
+offset_right = 32.5
+offset_bottom = 15.5
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_fonts/font = ExtResource("1_tstn3")
+theme_override_font_sizes/font_size = 40
+theme_override_styles/hover = SubResource("StyleBoxFlat_v05jd")
+theme_override_styles/pressed = SubResource("StyleBoxFlat_4fqqy")
+text = "Restart"
+
+[connection signal="pressed" from="Button" to="." method="_on_restart_pressed"]

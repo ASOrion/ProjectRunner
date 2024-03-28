@@ -1,21 +1,10 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1711585614
-barrel.tscn::PackedScene::8419745224632025235::1711331672::0::1::::<><>::uid://b7ko2h0ntsfmk::::res://Art/free-swamp-game-tileset-pixel-art/3 Objects/Boxes/3.png
-game_over.tscn::PackedScene::3713094463614833145::1711334314::0::1::::<><>::uid://c8qn24xraiw1::::res://Art/NESCyrillic.ttf
-ground.tscn::PackedScene::2966113937581700953::1711331672::0::1::::<><>::uid://etaorfrvve04::::res://Art/Screenshot 2024-03-24 120210.png
-hud.tscn::PackedScene::2476373803325516519::1711331672::0::1::::<><>::uid://c8qn24xraiw1::::res://Art/NESCyrillic.ttf
+::res://::1711592023
 icon.svg::CompressedTexture2D::173429451640656621::1709002227::1709002232::1::::<><>::
-main.gd::GDScript::-1::1711329982::0::1::::<>Node2D<>::
-main.tscn::PackedScene::5591653342492548696::1711331672::0::1::::<><>::res://main.gd<>uid://dnl2j3vdiw43::::res://player.tscn<>uid://bii2p0prh053r::::res://ground.tscn<>uid://sgbxbhbntqhx::::res://parallax_background.tscn<>uid://bbjtrrbi7w2ed::::res://hud.tscn<>uid://bs5wegtg1dmib::::res://game_over.tscn
-obstacle.tscn::PackedScene::3411600539245578715::1711331672::0::1::::<><>::uid://c07umg5kacrxt::::res://Art/obstacle.png
-parallax_background.tscn::PackedScene::1275887305662075021::1711331672::0::1::::<><>::uid://0e4nv3n1v6fr::::res://Art/PixelFantasy_Caves_1.0/background1.png<>uid://bqfydipep5muq::::res://Art/PixelFantasy_Caves_1.0/background2.png<>uid://cv3knpandf2yg::::res://Art/PixelFantasy_Caves_1.0/background3.png<>uid://bkxvdd6yvm0q1::::res://Art/PixelFantasy_Caves_1.0/background4a.png<>uid://bmkv080hh1lk4::::res://Art/PixelFantasy_Caves_1.0/background4b.png
 player.gd::GDScript::-1::1711314248::0::1::::<>CharacterBody2D<>::
-player.tscn::PackedScene::238120061995906270::1711331672::0::1::::<><>::res://player.gd<>uid://bbufme6tswbax::::res://Art/dinoCharactersVersion1.1/sheets/DinoSprites - mort.png
 README.md::TextFile::-1::1711334660::0::1::::<><>::
-rock.tscn::PackedScene::1952596017634430157::1711331672::0::1::::<><>::uid://ctutfw8f73o38::::res://Art/free-swamp-game-tileset-pixel-art/3 Objects/Stones/1.png
-stump.tscn::PackedScene::6545238524592015998::1711331672::0::1::::<><>::uid://bal6hbf8ebf30::::res://Art/free-swamp-game-tileset-pixel-art/3 Objects/Ridges/2.png
 TouchScreenButton.gd::GDScript::-1::1711335611::0::1::::<>TouchScreenButton<>::
-::res://Art/::1711333789
+::res://Art/::1711592010
 NESCyrillic.ttf::FontFile::209498304362588886::1708046204::1711316963::1::::<><>::
 obstacle.png::CompressedTexture2D::6594858677787799221::1709091668::1709091744::1::::<><>::
 Screenshot 2024-03-24 120210.png::CompressedTexture2D::320004454416204503::1711307060::1711307112::1::::<><>::
@@ -180,11 +169,6 @@ Coin.png::CompressedTexture2D::1444992139730401566::1711317942::1711317957::1:::
 Flag.png::CompressedTexture2D::7959010264736756716::1711317942::1711317957::1::::<><>::
 Key.png::CompressedTexture2D::6134325077856896042::1711317942::1711317957::1::::<><>::
 Rune.png::CompressedTexture2D::6613697909395381583::1711317942::1711317957::1::::<><>::
-::res://Art/gdb-gamepad-2(all)/::1711333792
-gdb-keyboard-2.png::CompressedTexture2D::8116892703603533201::1711333765::1711333792::1::::<><>::
-gdb-playstation-2.png::CompressedTexture2D::7381045008778790990::1711333765::1711333792::1::::<><>::
-gdb-switch-2.png::CompressedTexture2D::7971361838483942514::1711333765::1711333792::1::::<><>::
-gdb-xbox-2.png::CompressedTexture2D::3897818145247412861::1711333766::1711333792::1::::<><>::
 ::res://Art/PixelFantasy_Caves_1.0/::1709089947
 background1.png::CompressedTexture2D::1764763756949183135::1709088707::1709089947::1::::<><>::
 background2.png::CompressedTexture2D::3521227079441875720::1709088707::1709089947::1::::<><>::
@@ -195,3 +179,18 @@ mainlev_build.png::CompressedTexture2D::4730316774313017611::1709088707::1709089
 props1.png::CompressedTexture2D::419957082732259425::1709088707::1709089947::1::::<><>::
 props2.png::CompressedTexture2D::3183713757575912517::1709088707::1709089947::1::::<><>::
 ::res://Art/PixelFantasy_Caves_1.0/PSD/::1709088741
+::res://Builds/::1711591910
+::res://Scripts/::1711592023
+game_over.gd::GDScript::-1::1711590664::0::1::::<>CanvasLayer<>::
+main.gd::GDScript::-1::1711590655::0::1::::<>Node2D<>::
+::res://Tcsns/::1711592023
+barrel.tscn::PackedScene::8419745224632025235::1711590665::0::1::::<><>::uid://b7ko2h0ntsfmk::::res://Art/free-swamp-game-tileset-pixel-art/3 Objects/Boxes/3.png
+game_over.tscn::PackedScene::3713094463614833145::1711592020::0::1::::<><>::res://Scripts/game_over.gd<>uid://c8qn24xraiw1::::res://Art/NESCyrillic.ttf
+ground.tscn::PackedScene::2966113937581700953::1711590665::0::1::::<><>::uid://etaorfrvve04::::res://Art/Screenshot 2024-03-24 120210.png
+hud.tscn::PackedScene::2476373803325516519::1711590665::0::1::::<><>::uid://c8qn24xraiw1::::res://Art/NESCyrillic.ttf
+main.tscn::PackedScene::5591653342492548696::1711592023::0::1::::<><>::res://Scripts/main.gd<>uid://sgbxbhbntqhx::::res://Tcsns/parallax_background.tscn<>uid://dnl2j3vdiw43::::res://Tcsns/player.tscn<>uid://bii2p0prh053r::::res://Tcsns/ground.tscn<>uid://bbjtrrbi7w2ed::::res://Tcsns/hud.tscn<>uid://bs5wegtg1dmib::::res://Tcsns/game_over.tscn
+obstacle.tscn::PackedScene::3411600539245578715::1711590665::0::1::::<><>::uid://c07umg5kacrxt::::res://Art/obstacle.png
+parallax_background.tscn::PackedScene::1275887305662075021::1711590665::0::1::::<><>::uid://0e4nv3n1v6fr::::res://Art/PixelFantasy_Caves_1.0/background1.png<>uid://bqfydipep5muq::::res://Art/PixelFantasy_Caves_1.0/background2.png<>uid://cv3knpandf2yg::::res://Art/PixelFantasy_Caves_1.0/background3.png<>uid://bkxvdd6yvm0q1::::res://Art/PixelFantasy_Caves_1.0/background4a.png<>uid://bmkv080hh1lk4::::res://Art/PixelFantasy_Caves_1.0/background4b.png
+player.tscn::PackedScene::238120061995906270::1711592025::0::1::::<><>::res://player.gd<>uid://bbufme6tswbax::::res://Art/dinoCharactersVersion1.1/sheets/DinoSprites - mort.png
+rock.tscn::PackedScene::1952596017634430157::1711590665::0::1::::<><>::uid://ctutfw8f73o38::::res://Art/free-swamp-game-tileset-pixel-art/3 Objects/Stones/1.png
+stump.tscn::PackedScene::6545238524592015998::1711590665::0::1::::<><>::uid://bal6hbf8ebf30::::res://Art/free-swamp-game-tileset-pixel-art/3 Objects/Ridges/2.png

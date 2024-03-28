@@ -10,3 +10,6 @@ res://rock.tscn
 res://barrel.tscn
 res://game_over.gd
 res://game_over.tscn
+res://Tcsns/main.tscn
+res://Tcsns/game_over.tscn
+res://Tcsns/player.tscn

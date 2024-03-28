@@ -2,7 +2,7 @@
 
 [ext_resource type="Texture2D" uid="uid://b7ko2h0ntsfmk" path="res://Art/free-swamp-game-tileset-pixel-art/3 Objects/Boxes/3.png" id="1_x6ouj"]
 
-[node name="barrel" type="StaticBody2D"]
+[node name="barrel" type="Area2D"]
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 texture_filter = 1

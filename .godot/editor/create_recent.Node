@@ -1,3 +1,5 @@
+CollisionShape2D
+Area2D
 TouchScreenButton
 Sprite2D
 Node
@@ -5,8 +7,6 @@ Button
 CanvasLayer
 StaticBody2D
 Label
-CollisionShape2D
-Area2D
 AnimatedSprite2D
 TileMap
 Camera2D

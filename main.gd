@@ -1,6 +1,6 @@
 extends Node2D
 
-signal obs_body_entered
+
 
 var obstacle = preload("res://obstacle.tscn")
 var stump = preload("res://stump.tscn")
@@ -30,6 +30,7 @@ var max_difficulty = 2
 func _ready():
 	screen_size = get_window().size
 	ground_height = $ground.get_node("Sprite2D").texture.get_height()
+	$GameOver.get_node("Button").pressed.connect(new_game)
 	new_game()
 
 func new_game():
@@ -69,6 +70,8 @@ func _process(delta):
 			$HUD.get_node("pressstart").hide()
 			
 
+	
+
 func show_score():
 	$HUD.get_node("score").text = "Score: " + str(score / score_modifier)
 
@@ -87,6 +90,7 @@ func generate_obs():
 			add_obs(obs, obs_x, obs_y)
 
 func add_obs(obs, x, y):
+	obs.body_entered.connect(hit_obs)
 	obs.position = Vector2i(x, y)
 	add_child(obs)
 	obstacles.append(obs)
@@ -97,8 +101,7 @@ func remove_obs(obs):
 
 func hit_obs(body):
 	if body.name == "dino":
-		obs_body_entered.emit()
-		print("collision")
+		game_over()
 
 func adjust_difficulty():
 	difficulty = score / speed_modifier
@@ -110,6 +113,3 @@ func game_over():
 	game_running = false
 	$GameOver.show()
 
-
-func _on_obs_body_entered():
-	game_over()

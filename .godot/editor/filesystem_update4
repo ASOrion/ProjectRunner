@@ -13,3 +13,11 @@ res://game_over.tscn
 res://Tcsns/main.tscn
 res://Tcsns/game_over.tscn
 res://Tcsns/player.tscn
+res://Tcsns/parallax_background.tscn
+res://Tcsns/obstacle.tscn
+res://Tcsns/ground.tscn
+res://Tcsns/hud.tscn
+res://Tcsns/stump.tscn
+res://Tcsns/rock.tscn
+res://Tcsns/barrel.tscn
+res://Scripts/main.gd

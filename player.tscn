@@ -1,6 +1,6 @@
 [gd_scene load_steps=16 format=3 uid="uid://dnl2j3vdiw43"]
 
-[ext_resource type="Script" path="res://Scripts/player.gd" id="1_034vo"]
+[ext_resource type="Script" path="res://Scripts/player.gd" id="1_38ffm"]
 [ext_resource type="Texture2D" uid="uid://bbufme6tswbax" path="res://Art/dinoCharactersVersion1.1/sheets/DinoSprites - mort.png" id="2_57hwo"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_0l02e"]
@@ -107,7 +107,7 @@ animations = [{
 size = Vector2(67, 99)
 
 [node name="Player" type="CharacterBody2D"]
-script = ExtResource("1_034vo")
+script = ExtResource("1_38ffm")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 texture_filter = 1

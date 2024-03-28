@@ -3,6 +3,7 @@ extends Node2D
 
 
 var obstacle = preload("res://obstacle.tscn")
+
 var stump = preload("res://stump.tscn")
 var rock = preload("res://rock.tscn")
 var barrel = preload("res://barrel.tscn")

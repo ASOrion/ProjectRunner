@@ -1,6 +1,6 @@
 [gd_scene load_steps=5 format=3 uid="uid://bs5wegtg1dmib"]
 
-[ext_resource type="Script" path="res://Scripts/game_over.gd" id="1_5h2tn"]
+[ext_resource type="Script" path="res://Scripts/game_over.gd" id="1_fjeed"]
 [ext_resource type="FontFile" uid="uid://c8qn24xraiw1" path="res://Art/NESCyrillic.ttf" id="1_tstn3"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_v05jd"]
@@ -10,7 +10,7 @@ bg_color = Color(0.8, 0.8, 0.8, 1)
 bg_color = Color(0.847059, 0.847059, 0.847059, 1)
 
 [node name="GameOver" type="CanvasLayer"]
-script = ExtResource("1_5h2tn")
+script = ExtResource("1_fjeed")
 
 [node name="Button" type="Button" parent="."]
 anchors_preset = 8
